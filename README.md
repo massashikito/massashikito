@@ -2,9 +2,8 @@
 <h2>>Olá, me chamo Massashi e sou apaixonado por tecnololgia.</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massashikito&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massashikito&hide_progress=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massashikito&show_icons=true&theme=tokyonight)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/massashikito/github-readme-stats)
 <h3>Tecnologias que uso:</h3>
 
 <div style="display: inline_block">
@@ -21,5 +20,5 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail.to:massashikito@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/massashi-kito-169902217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/massashikito?igsh=Y25qMXVteXkzeGZv&utm_source=qr)
-[![(enviar um e-mail)]](mail.to:massashikito@gmail.com)
+
 
