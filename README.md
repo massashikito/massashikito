@@ -2,7 +2,7 @@
 <h2>>Olá, me chamo Massashi e sou apaixonado por tecnololgia.</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massashikito&show_icons=true&theme=tokyonight)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=massashikito&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massashikito&hide_progress=true)
 
 <h3>Tecnologias que uso:</h3>
